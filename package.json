@@ -1,0 +1,13 @@
+{
+	"name": "com.unirx.utility",
+	"displayName": "Unirx Utility",
+	"unity": "2018.3",
+	"version": "1.0.0",
+	"description": "GetFromSceneContext, SubscribeToTextMeshProUGUI",
+	"author": "Sergii Safonov",
+	"dependencies": {},	
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Serghii/UnirxUtils_package.git"
+	}
+}

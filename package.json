@@ -1,6 +1,6 @@
 {
 	"name": "com.unirx.utility",
-	"displayName": "Unirx Utility",
+	"displayName": "UniRx Utility",
 	"unity": "2018.3",
 	"version": "1.0.0",
 	"description": "GetFromSceneContext, SubscribeToTextMeshProUGUI",
